@@ -1,7 +1,7 @@
 # _**Cyber Security Units 1-7 Lesson Plans**_
 
 ### General Overview
-First few units were pretty solid. Contained clear objectives and instructions. Issues arise in later units: trouble following along with powerpoint; tone of lessons become more instructional rather than conversational; Timing issues; phrasing of instruction becomes monotonous("Explain that..." ennui); lessons can be structured in a way that provided clarity of what objectice/topic they are currently covering (see Restructuring Idea). 
+Solid first few units. Contained clear objectives and instructions. Issues arise in later units: trouble following along with powerpoint; tone of lessons become more instructional rather than conversational; Timing issues; phrasing of instruction becomes monotonous("Explain that..." ennui); lessons can be structured in a way that provided clarity of what objectice/topic they are currently covering (see Restructuring Idea). 
 
 ## **Unit 1: Intro to Cyber & Unit 2: Terminals**
 
@@ -99,8 +99,6 @@ Lesson 6.3 Powerpoint doesn't check up on Daily Goals.
 Still being revised by team. Inconsistencies between lessons and powerpoint but Unit 7 seems simple and functional. 
 
 **7.3 No class instructions.** 
-
-
 
 
 # _**Dataviz Units 2 & 14**_
