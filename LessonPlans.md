@@ -21,7 +21,7 @@ Overview & Objectives: Strong Emphasis on student's comfort level  / very suppor
    * Pay attention to: overview, objectives, instructor notes (What students should be aware of; difficulties/roadblocks)
 
 ## **Unit 3: Python**
-Python's place in the curriculum? -- Mentions that python isn't a requirement for entry level cyber jobs, so why teach it so early in lesson? **Emphasize importance of lessons rather than undermine them**
+Re: Python's place in the curriculum? -- Lesson plan mentions that Python isn't a requirement for entry-level cyber jobs, so why are we spending 6 days on it? Obviously its still important so make sure to **Emphasize importance of lessons rather than undermine them**
 
 Can save time in class by having students download apps before hand? 
 
