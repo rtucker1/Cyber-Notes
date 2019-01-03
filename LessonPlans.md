@@ -1,5 +1,8 @@
 # _**Cyber Security Units 1-7 Lesson Plans**_
 
+### General Overview
+First few units were pretty solid. Contained clear objectives and instructions. Issues arise in later units: trouble following along with powerpoint; tone of lessons become more instructional rather than conversational; Timing issues; phrasing of instruction becomes monotonous("Explain that..." ennui); lessons can be structured in a way that provided clarity of what objectice/topic they are currently covering (see Restructuring Idea). 
+
 ## **Unit 1: Intro to Cyber & Unit 2: Terminals**
 
 
@@ -27,7 +30,7 @@ Can save time in class by having students download apps before hand?
 
 +Today's Goals, good to keep revisiting throughout powerpoint to enforce points objectives and mark progress.
 
-#### **Restructuring Idea**
+## **Restructuring Idea**
 At anypoint in the lesson plan and the powerpoint, students and instructor should know exactly which Learning Objective they are working towards. Class instructions and powerpoint can be divided by  class objective. (Make it clearer which objective the teacher is leading.)
 
 Will also help teachers keep track of powerpoint place. 
