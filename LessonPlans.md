@@ -3,13 +3,13 @@
 ## **Unit 1: Intro to Cyber & Unit 2: Terminals**
 
 
-* Overview & Objectives: Strong Emphasis on student's comfort level  / very supportive of students 
+Overview & Objectives: Strong Emphasis on student's comfort level  / very supportive of students 
 
 * Engaging activites and Conversational Tone 
 
  * Difficulty Alligning lesson notes with powerpoint slide
 
-2.2 **Live vs. Dry Walk-thrus** Good concept but terms  aren't recurring in future lessons. 
+ * **Live vs. Dry Walk-thrus** Good concept but terms  aren't recurring in future lessons. 
 
 
 
