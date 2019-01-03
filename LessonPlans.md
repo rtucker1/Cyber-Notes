@@ -14,9 +14,9 @@ Overview & Objectives: Strong Emphasis on student's comfort level  / very suppor
 
 
 ### _Meeting Notes_:
-    Teaching Design shifts tone around Unit 5. Less focused on instructor as audience, need to make more accessible for teachers. 
-    Slack vs. Files, consistency of activity instructions 
-    Pay attention to: overview, objectives, instructor notes (What students should be aware of; difficulties/roadblocks)
+   * Teaching Design shifts tone around Unit 5. Less focused on instructor as audience, need to make more accessible for teachers. 
+   * Slack vs. Files, consistency of activity instructions 
+    * Pay attention to: overview, objectives, instructor notes (What students should be aware of; difficulties/roadblocks)
 
 ## **Unit 3: Python**
 Python's place in the curriculum? -- Mentions that python isn't a requirement for entry level cyber jobs, so why teach it so early in lesson? **Emphasize importance of lessons rather than undermine them**
