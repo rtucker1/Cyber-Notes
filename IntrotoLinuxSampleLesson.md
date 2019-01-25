@@ -232,7 +232,7 @@ Spend the remaining time of this review to emphasis the importance of the comman
 
 ### 11. Direct Instruction: Review Inspecting Permission (0:10)
 
-#### BREAK (0:15) (Time = 2:30)
+### BREAK (0:15) (Time = 2:30)
 
 ### 15. Direct Instruction: chmod, su, sudo, chown Demo (0:10)
 
