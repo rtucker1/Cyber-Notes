@@ -38,7 +38,7 @@ To begin, ask students to define an operating system and provide any examples th
 - Some popular operating Systems are: Microsoft Windows and Mac OSX
 - Explain that those OS's are built on Unix. They are proprietary, meaning we as users do not have 100% insight into the minutia of the  system's specs and how they work. In other words, they are inaccessible.
 
-[OSimage](OSImage.png)
+![images/OSImage.png](images/OSImage.png)
 
 Introduce Linux as an alternative  to these Unix systems. Explain that:
 
@@ -110,7 +110,7 @@ Call attention back to the front of the class and begin reviewing the students' 
 
 Now that students have a conceptual understanding of Linux, we will now walk-thru how to use this operating system even though we are already using the existing operating system of the students' computers. 
 
-[LinuxEverywhere](linuxeverywhere.png)
+![images/linuxeverywhere](images/linuxeverywhere.png)
 
 ### 4. Guided Practice: Installing VM and Linux (0:15) (Clock = 0:50)
 
@@ -147,7 +147,7 @@ Make sure all students are running Linux on their virtual machine before moving 
 
 ### 5. Direct Instruction: Review Installation and Explore Linux (0:10) (Clock = 1:00)
 
-[ubunto](ubunto.png)
+![images/ubunto](images/ubunto.png)
 
 All students should now be running Linux on VMware. Spend this review time to explore the interface of Linux together. Ask the class to compare and contrast the Linux interface with their computer's own operating system. 
 
