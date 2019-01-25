@@ -88,7 +88,7 @@ In this activity, students will pair up and research common everyday gadgets, co
         - Are any other skills mentioned or associated with Linux. 
             - For example: "Applicants must know Linux in order to complete _job functions x, y, z_. 
 
-Monitor the class and address and complications that arise. 
+Monitor the class and address any complications that arise. 
 
 ### 3. Direct Instruction: Review Ubiquity of Linux (0:10) (Clock = 0:35)
 
@@ -228,17 +228,17 @@ Spend the remaining time of this review to emphasis the importance of the comman
 
 ### 9. Direct Instruction: Permission (0:15) 
 
-### 10. Guided Practice: Inspecting Permissions and Symbolic & Octal Notation (0:20) (Clock = 2:05)
+### 10. Guided Practice: Inspecting Permissions  (0:20) (Clock = 2:05)
 
 ### 11. Direct Instruction: Review Inspecting Permission (0:10)
 
 ### BREAK (0:15) (Time = 2:30)
 
-### 15. Direct Instruction: chmod, su, sudo, chown Demo (0:10)
+### 12. Direct Instruction: chmod, su, sudo, chown Demo (0:10)
 
-### 16. Guided Practice: Setting Permissions (0:20) (Clock = 3:00)
+### 13. Guided Practice: Setting Permissions (0:20) (Clock = 3:00)
 
-### 17. Direct Instruction: Wrap up and Review Setting Permissions (0:05)
+### 14. Direct Instruction: Wrap up and Review Setting Permissions (0:05)
 
 -------
 
