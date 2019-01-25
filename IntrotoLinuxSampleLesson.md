@@ -226,6 +226,8 @@ Once the students have finished working, call attentio back to the class.
 
 Spend the remaining time of this review to emphasis the importance of the command line. While GUIs might be more accessible on your computer, in the world of cybersecurity, students will not have the luxury of working in GUI. If applicable, explain why and how you used the command line in any previous jobs. 
 
+-----
+
 ### 9. Direct Instruction: Permission (0:15) 
 
 ### 10. Guided Practice: Inspecting Permissions  (0:20) (Clock = 2:05)
