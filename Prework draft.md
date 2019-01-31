@@ -1,4 +1,4 @@
-# Prework Draft (Rough draft, images omitted)
+# Prework (Rough draft, images omitted)
 
 ## Introduction: Hello / "What is Prework?"
 
