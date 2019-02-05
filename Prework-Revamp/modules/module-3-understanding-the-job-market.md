@@ -2,13 +2,12 @@
 
 Another central topic covered in the early stages of this course is the Cybersecurity job market. As you  will learn, it is a vast and layered landscape. We reccomend you familiarize yourself with the types of jobs currently in demand and keep in mind the required skills, experience and certifications that arise in your research. 
 
----
 
-### 1. Explore Indeed.com
+## 1. Explore Indeed.com
 
 There are many job aggregating websites on the internet. One job board we reccomend using is [Indeed.com](www.indeed.com). The following activity is designed for you to aquaint yourself with the job search process. 
 
-#### Instructions
+### Instructions
 
 1. Enter **cyber security** (two words) in the **what** field. Set your location in the **where** field. Hit **return** or **Enter** (depending on your keyboard) to initiate the search. 
 
@@ -34,14 +33,14 @@ There are many job aggregating websites on the internet. One job board we reccom
 
 ![1078](assets/1078.png)
 
-#### Take-Aways: 
+### Take-Aways: 
 
 - Job titles for security professionals vary from organization to organization. Pay attention to the variety of job titles and adjust your search criteria as necessary so that you don't miss out on job postings.
 
 - You may notice titles like *analyst, engineer, architect,* and *specialist.* We will discuss the hierarchy of these roles in class.
 
 
-#### Resources:
+### Resources:
 
 Check out the following infographics and articles to find out who is hiring and what they're looking for in candidates. 
 
@@ -54,10 +53,7 @@ Check out the following infographics and articles to find out who is hiring and 
 - [Cybersecurity Supply/Demand Heat Map](http://cyberseek.org/heatmap.html)
 
 
-----
-
-
-### **2. COMPTIA Activity**
+## **2. COMPTIA Activity**
 
 To explore various certification pathways and general landscape, we will be using a resource developed by CompTIA, a certification body and professional organization. Here's what you need to do: 
 
@@ -77,9 +73,8 @@ To explore various certification pathways and general landscape, we will be usin
 - In a Google Doc, make a list of topics with which you are already familiar, and save it in Google Drive.
 - Submit this list using the instructions found in Module 1. 
 
----
 
-### **3. Certification Prep**
+## **3. Certification Prep**
 
 The following text will help prepapre you for the eventual certification testing. We recommend the following cybersecurity books, which may be available in digital formats as well as print. You may elect to purchase these after the course start date.
 
