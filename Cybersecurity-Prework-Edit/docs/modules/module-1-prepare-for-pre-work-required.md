@@ -1,4 +1,4 @@
-# Module 1: Get Started
+# Module 1: Get Started (Required)
 
 You have already made big strides toward your desired career in cybersecurity. Your first step was signing up for the boot camp. The second step will be completing this prework. 
 
