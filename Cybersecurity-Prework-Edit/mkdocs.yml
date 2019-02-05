@@ -1,0 +1,13 @@
+site_name: Cybersecurity Prework
+pages:
+    - Module 1 - Prepare for Pre-Work!: modules/module-1-prepare-for-pre-work-required.md
+    - Module 2 - Get Yo’ Mind Right: modules/module-2-get-yo-mind-right-required.md
+    - Module 3 - My Machine is Ready: modules/module-3-my-machine-is-ready-required.md
+    - Module 4 - Companion Text Books (Required): modules/module-4-companion-text-books-required.md
+    - Module 5 - Get Yo' Feet Wet (Required): modules/module-5-get-yo-feet-wet-required.md
+    - Module 6 - Understanding the Job Market: modules/module-6-understanding-the-job-market.md
+    - Module 7 - Let's Get To Work: modules/module-7-lets-get-to-work.md
+    - Module 8 - Recommended Activities, Reading, and Writing: modules/module-8-recommended-activities-reading-and-writing.md
+    - Summary: modules/SUMMARY.md
+copyright: Cybersecurity Bootcamp © 2018. All Rights Reserved.
+theme: readthedocs
