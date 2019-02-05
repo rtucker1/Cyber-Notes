@@ -1,4 +1,4 @@
-# Module 2: Install Your Tools
+# Module 2: Install Your Tools (Required)
 
 This course will expose you to a wide range of tools, some (or all) of which you may be unfamiliar with. Although they may be overwhelming at first, these tools will soon become as familiar to you as a scalpel is to a surgeon. The purpose of this section is to acquaint you with each of these tools before walking you through the process of installing them on your machine.
 
