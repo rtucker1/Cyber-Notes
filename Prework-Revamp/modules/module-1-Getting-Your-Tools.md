@@ -6,7 +6,7 @@ We're about to cover a lot of different things. The first module is the longest 
 
 Good luck!
 
----
+
 
 ## Your Hardware: Using the Right Tools for the Job
 
@@ -28,7 +28,7 @@ Being successful in this course begins with the right equipment. Below are the e
 
 **Note:** If you are unable to meet these requirements, please contact your Student Success Manager.
 
----
+
 
 
 ## Your Software: Getting the Right Tools for the Job
@@ -135,7 +135,7 @@ You can think of a network packet analyzer as a measuring device used to examine
 
 In the past, such tools were either very expensive, proprietary, or both. However, with the advent of Wireshark, all of that has changed.
 
----
+
 
 ## You're Ready to Install! 
 
