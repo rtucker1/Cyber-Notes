@@ -67,7 +67,7 @@ Want to dig into cybersecurity topics a bit before the first day of class? Check
 
 --- 
 
-### [Module 3: Understanding the Job](modules/module-3-understanding-the-job-market.md)
+### [Module 3: Understanding the Job Market](modules/module-3-understanding-the-job-market.md)
 
 Get to know the cybersecurity job market by browsing job sites. This module will also introduce you to the world of information technology certifications. The cybersecurity texts listed in this module will help give you a solid foundation in the concepts taught in this course, as well as prepare you for certification exams. 
 
