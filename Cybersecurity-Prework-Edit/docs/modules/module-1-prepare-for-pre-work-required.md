@@ -8,7 +8,7 @@ The time and effort required to complete this prework will give you a taste of t
 
 Good luck!
 
----
+
 
 ## Use the Right Tools for the Job
 
@@ -28,7 +28,7 @@ Being successful in this course begins with the right equipment. Below are the e
 
 * Full administrator \("root"\) privileges to operating and all software
 
----
+
 
 ## How to Submit Prework Assignments
 
