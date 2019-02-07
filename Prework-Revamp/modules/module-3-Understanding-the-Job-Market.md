@@ -27,8 +27,6 @@ There are many job aggregating websites on the internet. One job board we reccom
    - Find a job post that interests you. Copy and paste the job description into a document and save it to a local folder.
    - Identify 10 terms that recur across multiple posts. Research each term, and then define it in your own words (one to three sentences per term). 
 
-
-
 ![1077](assets/1077.png)
 
 ![1078](assets/1078.png)
@@ -55,6 +53,8 @@ Check out the following infographics and articles to find out who is hiring and 
 
 ## **2. COMPTIA Activity**
 
+This activity is designed to introduce you to the world of information technology certifications.  A certification is a testament to your skills and proficiency in a certain subject area or technology. Holding certifications has been shown to increase a job seeker's marketability to employers as well as result in a higher salary when hired. Certifications can also help you further your professional development. There are a variety of certifications available. Obtaining a certification almost always involves passing an exam.
+
 To explore various certification pathways and general landscape, we will be using a resource developed by CompTIA, a certification body and professional organization. Here's what you need to do: 
 
 1. Go to the [IT Certification Roadmap](https://certification.comptia.org/docs/default-source/downloadablefiles/it-certification-roadmap.pdf). 
@@ -76,7 +76,7 @@ To explore various certification pathways and general landscape, we will be usin
 
 ## **3. Certification Prep**
 
-The following text will help prepapre you for the eventual certification testing. We recommend the following cybersecurity books, which may be available in digital formats as well as print. You may elect to purchase these after the course start date.
+The following texts will help prepapre you for the eventual certification testing. We recommend the following cybersecurity books, which may be available in digital formats as well as print. You may elect to purchase these after the course start date.
 
 1. *CompTIA® Network+ N10–006 Cert Guide* by Keith Barker and Kevin Wallace
 2. *CompTIA Security+ Certification Study Guide, Third Edition \(Exam SY0-501\)* by Glen E. Clarke
@@ -88,4 +88,4 @@ The following text will help prepapre you for the eventual certification testing
 
 ### Copyright
 
-Trilogy Education Services © 2018. All Rights Reserved.
+Trilogy Education Services © 2019. All Rights Reserved.
