@@ -1,4 +1,4 @@
-# Module 4: Understand the Job Market
+# Module 3: Understand the Job Market
 
 Another central topic covered in the early stages of this course is the Cybersecurity job market. As you  will learn, it is a vast and layered landscape. We reccomend you familiarize yourself with the types of jobs currently in demand and keep in mind the required skills, experience and certifications that arise in your research. 
 
