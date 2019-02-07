@@ -33,9 +33,9 @@ Being successful in this course begins with the right equipment. Below are the e
 
 ## Your Software: Getting the Right Tools for the Job
 
-This course will expose you to a wide range of tools, some (or all) of which you may be unfamiliar with. Although they may be overwhelming at first, these tools will soon become as familiar to you as a scalpel is to a surgeon. The purpose of this section is to acquaint you with each of these tools before walking you through the process of installing them on your machine.
+This course will expose you to a wide range of tools, many of which may be unfamiliar to you. Although they may be overwhelming at first, these tools will soon become as familiar to you as a scalpel is to a surgeon. The purpose of this section is to acquaint you with each of these tools before walking you through the process of installing them on your machine.
 
-Below is a list of the tools you should install before your first class to ensure you're ready to dive in on Day 1. 
+Below is a list of the tools you should install before your first class to ensure you're ready to dive in on Day 1 of class. 
 
 - Google Chrome
 - Slack
@@ -53,14 +53,14 @@ Below is a list of the tools you should install before your first class to ensur
 
 You should also create accounts on the following websites: 
 
-* LinkedIn
-* GitHub
-* GitLab
-* Google
-* Cisco
-* SANS
-* ISACA
-* (ISC)^2^
+- LinkedIn
+- GitHub
+- GitLab
+- Google
+- Cisco
+- SANS
+- ISACA
+- (ISC)^2^
 
 If you encounter any issues during setup, don't worry. Your instructional staff will help you troubleshoot any errors and answer your questions on the first day of class. Just sit tight until then. 
 
@@ -88,7 +88,7 @@ Git Bash (for Windows users) and Terminal (for Mac users) offer a command-line i
 
 ### 4. Git, GitHub, and GitLab
 
-A term you will come to know well over the next few months is Git. Coders depend on Git for version control—the process of logging the development of programs and applications. This comes in handy during collaborative programming, when teams of programmers change, add, and remove code throughout a project’s directory. Without Git, this process would be chaotic.
+A term you will come to know well over the next few months is Git. Coders depend on Git for version control (the process of logging the development of programs and applications). This feature comes in handy during collaborative programming, when teams of programmers change, add, and remove code throughout a project’s directory. Without Git, this process would be chaotic.
 
 GitHub allows programmers to manage, track, and store their collaborative actions online. In a way, GitHub serves as a sort of Dropbox for coders. It offers a central place for individuals and teams to upload their code, view revision history, and make changes to a master set of files. 
 
@@ -152,4 +152,4 @@ One bit of advice: Throughout the course, you will frequently need to install an
 
 ### Copyright
 
-Trilogy Education Services © 2018. All Rights Reserved.
+Trilogy Education Services © 2019. All Rights Reserved.
