@@ -2,7 +2,7 @@
 
 You have already made big strides toward your desired career in cybersecurity. Your first step was signing up for the boot camp. The second step will be completing this prework. 
 
-The boot camp will present many challenges. This prework, which contains 8 different modules, is designed to provide the information and guidance you need to succeed in the first few weeks of the course. We recommend reading the modules in order, but you can complete the activities and assignments in any order you choose. 
+The boot camp will present many challenges. This prework, which contains 8 different modules, is designed to provide the information and guidance you need to succeed in the first few weeks of the course.
 
 The time and effort required to complete this prework will give you a taste of the challenges to come. Just remember that perfection isn't everything. Give each of these modules your all and submit whatever you create. You'll have the rest of the course to smooth out the edges.
 
