@@ -15,13 +15,19 @@ But trust us! All the hard work and long hours will be worth it in the end. And 
 
 ## What is Prework?
 
-Prework are the first steps you'll take in this program. What you complete for prework will prepare you for the coming weeks in class. 
-- You'll download all the necessary applications and tools;
-- get a sense of how the course progresses from topic to topic; you'll get a chance to explore some of the jobs out their (the reason you're taking this course); 
-- we'll give you an idea of what cerficiations you'll want to study for (it's never to early to prep) and 
-- lastly we'll help you callibrate your expectations, get you in the right mindset for learning, collabaoration and success.
+Prework is the first step you'll take in this program. What you complete for prework will prepare you for the coming weeks in class. 
 
-With that said, we encourage you to navigate through the four modules, complete any tasks asked, and get ready for a great (number of months) You are in for an amazing ride!
+In the following assignments, you will: 
+
+- Download all the necessary applications and tools needed for class;
+- Gain a sense of how the course progresses from topic to topic;
+- Explore some cybersecurity jobs out available; 
+- Understand what cerficiations you'll want to pursue and study for.  
+- Lastly, callibrate your expectations to get in the right mindset for learning, collabaoration and success.
+
+With that said, we encourage you to navigate through the four modules, complete any tasks asked, and get ready for a great experience You are in for an amazing ride!
+
+Before getting started on the modules, take a moment to read over the instructions covering how to submit prework assignments. 
 
 ## How to Submit Prework Assignments
 
@@ -55,6 +61,8 @@ And that's it! You're ready for Module 2!
 
 ## Prework Modules
 
+Now you're ready to get to work. Listed below are the four modules. We encourage you to complete them in sequential order. 
+
 ### [Module 1: Getting Your Tools (Required)](modules/module-1-Getting-Your-Tools.md)
 
 This module is designed to ensure that  you have all the right hardware and software so you can hit the ground running on the first day of class!
@@ -81,6 +89,6 @@ This boot camp won't be easy. Set the right attitude and expectations by followi
 
 ### Copyright
 
-Trilogy Education Services © 2018. All Rights Reserved.
+Trilogy Education Services © 2019. All Rights Reserved.
 
 
