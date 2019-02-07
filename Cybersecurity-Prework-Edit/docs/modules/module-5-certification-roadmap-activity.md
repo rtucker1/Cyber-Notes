@@ -1,6 +1,6 @@
 # Module 5: Certification Roadmap
 
-This activity is meant to introduce you to the world of information technology certifications.  A certification is a testament to your skills and proficiency in a certain subject area or technology. Holding certifications has been shown to increase a job seeker's marketability to employers as well as result in a higher salary when hired. Certifications can also help you further your professional development. There are a variety of certifications available. Obtaining a certification almost always involves passing an exam.
+This activity is designed to introduce you to the world of information technology certifications.  A certification is a testament to your skills and proficiency in a certain subject area or technology. Holding certifications has been shown to increase a job seeker's marketability to employers as well as result in a higher salary when hired. Certifications can also help you further your professional development. There are a variety of certifications available. Obtaining a certification almost always involves passing an exam.
 
 To explore various certification pathways and general landscape, we will be using a resource developed by CompTIA, a certification body and professional organization. Here's what you need to do: 
 
