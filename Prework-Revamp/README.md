@@ -51,7 +51,7 @@ You will submit your completed assignments on [Bootcamp Spot](https://www.bootca
 
 9. Click on the assignment and paste the Google Drive link. 
 
-And that's it! You're ready for Module 2! 
+And that's it! 
 
 #### Supplemental Resources
 
