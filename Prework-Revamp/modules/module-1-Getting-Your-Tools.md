@@ -1,4 +1,4 @@
-# Module 1: Get Started
+# Module 1: Get Started (Required)
 
 The first thing we'll cover is making sure you have all the hardware and software needed to get through this course. We'll makesure your computer is up-to-date and capable. We'll also get you set up with the applications, tools and online accounts necessary. 
 
