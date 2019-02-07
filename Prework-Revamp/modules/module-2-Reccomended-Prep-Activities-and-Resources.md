@@ -1,9 +1,10 @@
-# Module 2: First Weeks' Expectations / Reccomended Prep Activities 
+# Module 2: The Early Lessons Expectations & Reccomended Prep Activities 
 
 Now that you have all the tools, you'll be able to hit the ground running on the first day of class. You may be curious about what the first few weeks of class will cover and if there is anything you can do to get ready beforehand. 
 
-We will cover a lot of ground at the begining of course. Everything from largre-scale overviews of the cybersecurity domains and job markets to hands-on skills like working in the terminal and coding with python to fundamental concepts like networking and operating systems. Some of that may sound daunting. Maybe you've heard a few of those skills before, but you could use a refresher... Either way, have no fear! You will have plenty of opportunities to learn and practice once class starts. But you can also start right now, with some introductory prep activities listed below.
+We will cover a lot of ground at the begining of course. Everything from largre-scale overviews of the cybersecurity domains and job markets to hands-on skills like working in the terminal and coding with python to fundamental concepts like networking and operating systems. Maybe that sounds daunting to you. Maybe you're familiar with a few of those skills, but you could use a refresher... Either way, have no fear! You will have plenty of opportunities to learn and practice once class starts. But you can also start right now, with some introductory prep activities.
 
+Below is a list of recommended courses, readings, and writing activities focused on developing your skills as a cybersecurity professional.  We strongly encourage you to complete them at some point during the course. 
 
 ## SANS Cyber Aces
 
@@ -51,9 +52,6 @@ Lastly, we recommend [Safari Books](https://www.safaribooksonline.com/) for cybe
 ![1081](assets/1081.png)
 
 **Note:** Veterans and current military may be eligible to obtain free access. Contact the learning resource center of your unit or base for more information. 
-
-
-
 
 -------
 
