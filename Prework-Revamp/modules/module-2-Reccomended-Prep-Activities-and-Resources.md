@@ -57,4 +57,4 @@ Lastly, we recommend [Safari Books](https://www.safaribooksonline.com/) for cybe
 
 ### Copyright
 
-Trilogy Education Services © 2018. All Rights Reserved.
+Trilogy Education Services © 2019. All Rights Reserved.
