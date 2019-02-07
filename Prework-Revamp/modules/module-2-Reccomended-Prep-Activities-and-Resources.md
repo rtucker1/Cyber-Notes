@@ -1,4 +1,4 @@
-# Module 2: The Early Lessons Expectations & Reccomended Prep Activities 
+# Module 2: What to Expect in the Early Lessons & Reccomended Prep Activities 
 
 Now that you have all the tools, you'll be able to hit the ground running on the first day of class. You may be curious about what the first few weeks of class will cover and if there is anything you can do to get ready beforehand. 
 
