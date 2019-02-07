@@ -1,6 +1,6 @@
 # Module 4: Understand the Job Market
 
-In this section, you will get acquainted with the cybersecurity job market by using Indeed.com. We will also provide a list of professional resources. 
+Another central topic covered in the early stages of this course is the Cybersecurity job market. As you  will learn, it is a vast and layered landscape. In this section, you will get acquainted with the cybersecurity job market by using Indeed.com. We will also provide a list of professional resources. 
 
 ## Activity: Explore Indeed.com
 
@@ -28,8 +28,6 @@ A crucial step in the job search is familarizing yourself with the types of jobs
    - Find a job post that interests you. Copy and paste the job description into a document and save it to a local folder.
    - Identify 10 terms that recur across multiple posts. Research each term, and then define it in your own words (one to three sentences per term). 
 
-
-
 ![1077](assets/1077.png)
 
 ![1078](assets/1078.png)
@@ -53,3 +51,9 @@ Check out the following infographics and articles to find out who is hiring and 
 - [How to Get a Cybersecurity Job in Three Charts: a Degree, a Certification, and a Clearance](http://burning-glass.com/how-to-get-a-cybersecurity-job-in-three-charts-a-degree-a-certification-and-a-clearance/)
 - [Cybersecurity Supply/Demand Heat Map](http://cyberseek.org/heatmap.html)
 
+
+-------
+
+### Copyright
+
+Trilogy Education Services © 2019. All Rights Reserved.
